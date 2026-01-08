@@ -1,15 +1,24 @@
-# Especialista em Vendas com IA – NotebookLM
+# 💼 SalesAI – Especialista em Vendas com IA (NotebookLM)
 
-Projeto desenvolvido no curso **GenAI & Dados** com o objetivo de criar
-um especialista em vendas utilizando IA generativa no NotebookLM.
+Projeto desenvolvido no curso **GenAI & Dados (DIO)** que demonstra a criação
+de um **especialista em vendas com IA generativa**, utilizando o NotebookLM (Google).
 
-## Objetivo
-Simular um especialista humano em vendas capaz de:
-- Sugerir abordagens comerciais
-- Trabalhar objeções de clientes
-- Apoiar treinamentos de vendas
+## 🎯 Objetivo
+Apoiar abordagens comerciais, tratamento de objeções e treinamento de vendas
+por meio de um assistente inteligente.
 
-## Ferramentas
+## 🧠 Abordagem
+Uso de **Prompts** e curadoria de documentos para simular
+o comportamento de um especialista sênior em vendas.
+
+## 🛠️ Ferramentas
 - NotebookLM (Google)
 - IA Generativa
-- Curadoria de documentos
+
+## 🔗 Acesso ao Projeto
+NotebookLM público para demonstração:
+👉 https://notebooklm.google.com/notebook/7a103cdb-aede-4183-b84d-9b8b23d9033a
+
+## 📸 Exemplos
+![Mapa mental](NotebookLM%20Mind%20Map.png)  
+![Exemplo de prompt](exemplo_prompt.png)
