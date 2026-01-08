@@ -9,7 +9,7 @@ por meio de um assistente inteligente.
 
 ## 🧠 Abordagem
 Uso de **Prompts** e curadoria de documentos para simular
-o comportamento de um especialista sênior em vendas.
+o comportamento de um especialista em vendas.
 
 ## 🛠️ Ferramentas
 - NotebookLM (Google)
